@@ -1,6 +1,6 @@
 import telebot
 
-BOT_TOKEN = '8199489852:AAGR_0OcAQYRzKAM5tAgSIpux5j3wneyvto' #REPLACE_WITH_YOUR_BOT_TOKEN_LIKE_THIS_TOKEN
+BOT_TOKEN = 'YOUR_BOT_TOKEN' #REPLACE_WITH_YOUR_BOT_TOKEN
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Your code-to-video map
